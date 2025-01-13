@@ -1,3 +1,7 @@
+# Add your GOOGLE_API_KEY AND SAVE IT INTO a new file and name it config.js
+
+> export const GOOGLE_API_KEY = "YOUR_API_KEY";
+
 # The App has the following features and tools integrated
 
 - Based On Live Youtube data

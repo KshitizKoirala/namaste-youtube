@@ -1,5 +1,6 @@
+import { GOOGLE_API_KEY } from "../config";
+
 export const LIVE_CHAT_OFFSET = 30;
-const GOOGLE_API_KEY = "AIzaSyB9OOvDDq-9PTuP_IIjSpJkbniosCt6ZpM";
 
 export const YOUTUBE_MOST_POPULAR_API =
   "https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=IN&key=" +
